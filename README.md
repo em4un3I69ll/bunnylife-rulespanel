@@ -43,7 +43,7 @@ Bunny Life es una plataforma web profesional diseñada para gestionar y visualiz
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f73b226-447c-4ee1-a717-b2ef3d5bff39" />
 
 ### Inicio 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/818bdb20-88c6-4908-a3e1-819cd47f0df3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39373289-3d4f-4632-b5c4-5f83dd22d162" />
 
 ### Login
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68179f17-33ac-4c5d-8f02-84f02032100b" />
