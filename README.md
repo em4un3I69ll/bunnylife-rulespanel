@@ -40,28 +40,42 @@ Bunny Life es una plataforma web profesional diseñada para gestionar y visualiz
 [![Express (HTTP)](https://img.shields.io/badge/Express%20API-000000?logo=express\&logoColor=white)]()
 
 ### Pantalla de carga
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f73b226-447c-4ee1-a717-b2ef3d5bff39" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e25512e9-7a73-410e-a334-ad06cf208d2d" />
 
 ### Inicio 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39373289-3d4f-4632-b5c4-5f83dd22d162" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e6bafed-d5e1-454c-9bc6-77b3e3a9f1d7" />
 
 ### Login
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68179f17-33ac-4c5d-8f02-84f02032100b" />
 
 ### Inicio administrativo
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a90f548-485b-46d9-97c5-7503e612e7b6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5677a716-04db-47c2-bc7e-72ef86798bd6" />
 
 ### Selectores por colores al modificar
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff52d091-34bf-448f-a6a0-6bb0f91f5289" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3730f7dd-45f4-4bd1-93dc-a7c0fb658d0d" />
 
 ### Sistema de gestión de usuarios
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17648a38-6573-4484-826f-4ab136fa9fc1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d23d9c2b-0125-42be-ba73-80f06a718e7a" />
 
 ### Sistema de logs & cambios con restauración
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba070cac-b29c-4013-9bd8-19a0d1a8f3d7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/67492760-1205-4ab7-8591-fa3981b858b7" />
+
+### Modificaciones Logs 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b890552-06ee-421c-bcdf-b703a9d7c874" />
 
 ### Sistema de roles y permisos 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/faf33d5e-b651-4ea7-9e0a-f7d2a3e12a11" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa89a449-ece4-4d0b-91e4-0b28f667495e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f712ad9-59e7-4df7-a898-08562bff6c07" />
 
 ### Backup & restore
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb602c5f-ca1e-4d46-b87a-a00d6d6b7cf0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/048279f8-51e7-4aef-9381-b3a999df271b" />
+
+### Crear nueva sección
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f919c79-239c-4143-af1c-b6ff231a3e7a" />
+
+### Renombrar Categoría
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/deb2e581-3ca0-48a9-9a3e-5dbdeaad09e3" />
+
+### Nueva Página
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63f36283-818e-43ad-a7db-86884036b94f" />
